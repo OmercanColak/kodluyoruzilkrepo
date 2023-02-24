@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 ## License ##   
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Kodluyoruz Logo](https://global-uploads.webflow.com/6097e0ecale87557da031fef/6136c7fd01d5637f9fa8be9e_logo-1.png)
+![Kodluyoruz Logo](https://global-uploads.webflow.com/6097e0eca1e87557da031fef/6136c7fd01d5637f9fa8be9e_logo-1.png)
